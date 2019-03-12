@@ -1,0 +1,83 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.wrapper {
+    max-width: 1024px;
+    width: 100%;
+}   
+
+.header {
+    display: flex;
+    justify-content: center;
+}
+
+.header__photo {
+    padding: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    color: skyblue;
+    text-align: center;
+}
+
+ul {
+   text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;;
+    border-collapse: collapse;
+   
+}
+td {
+    padding: 10px;
+    
+}
+
+.contacts__title::before,  
+.profile__title::before,
+.skills__title::before,
+.experience__title::before,
+.education__title::before,
+.language__title::before
+ {
+    color: skyblue;
+    font-size: 40px; 
+    text-align: center;
+    font-family: FontAwesome;
+    margin-right: 10px;
+    bottom: 10%;
+}
+
+.contacts__title::before {
+    content: "\f095";
+}
+.profile__title::before {
+    content: "\f2b2"; 
+}
+.skills__title::before {
+    content: "\f109";
+}
+
+.experience__title::before {
+    content: "\f0f2";
+}
+
+.education__title::before {
+    content: "\f006";
+}
+
+.language__title::before {
+    content: "\f0eb";
+}
