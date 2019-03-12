@@ -64,7 +64,7 @@ td {
     content: "\f095";
 }
 .profile__title::before {
-    content: "\f2b2"; 
+    content: "\f2bd"; 
 }
 .skills__title::before {
     content: "\f109";
