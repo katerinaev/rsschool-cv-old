@@ -10,7 +10,7 @@ I would like to get this position to use my professional skills in developing mo
  Getting this position allow me to apply my new knowledge, my wish to learn and find out new technologies in order to create perfect products to bring all my best to company.
 
 ### SKILLS:
-*	Markup languages: HTML, CSS, Java Script
+*	Markup languages: HTML, CSS, Java Script, Java
 *	Frameworks: Bootstrap4
 *	Version Management: GIT, Github, Bitbucket
 *	IDE: Visual Studio Code, SublimeText
