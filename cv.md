@@ -22,9 +22,9 @@ I would like to get this position to use my professional skills in developing mo
 
 11.18 – now Software Engineer School of Business of BSU
 
-### EDUCATION: 
+### EDUCATION:
 Belarusian State University of Informatics and Radioelectronics,
 Computer Systems and Networks
 
 ### LANGUAGE SKILLS
-English A2
+English B1
