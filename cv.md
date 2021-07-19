@@ -18,7 +18,7 @@ I would like to get this position to use my professional skills in developing mo
 
 ### RELEVANT EXPERIENCE:
 11.18 – 02.19 Web-developing courses in STORMNET
-[Projects](hhttps://bitbucket.org/evtihevich/katerinaev/src/master/)
+[Projects](https://bitbucket.org/evtihevich/katerinaev/src/master/)
 
 11.18 – now Software Engineer School of Business of BSU
 
